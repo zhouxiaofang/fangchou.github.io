@@ -27,7 +27,11 @@ menu:
   link:
     text: 测试
     url: /custom
-
+#部署
+deploy:
+  type: git
+  repo: git@github.com:zhouxiaofang/fangchou.github.io.git
+  baranch: master
 # 你的头像url
 avatar: /img/avatar.jpg
 # avatar link
